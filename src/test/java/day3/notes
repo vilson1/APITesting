@@ -1,0 +1,17 @@
+equest-->RestAssured.get(); dergon request dhe sjell response ku e runajem ne nje Response variable
+ cfare kontrollohet zakonisht?
+- response status code
+- content type
+- headers (kontrollojme nese nje header ekziston dhe vlerat e headerave)
+- body
+
+parametrat e request
+-path {id}
+-querry key value vendoset gjithmone ne fund pas ?
+pathParam(key,value)
+queryParam(key,value)
+
+navigimi i JSON
+-path() method
+-JsonPath()
+-
