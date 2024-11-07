@@ -1,0 +1,11 @@
+Authentication vs authorisation
+
+Authentication ==> verifikon se kush je
+authorisation ==> tregon se cfare je ne gjendje te besh
+
+401 --> invald credentioals
+403 -->valid credential, por nuk je i autorizuar
+
+NoAutentication -> nuk ka nevoje per kredenciale
+BasicAuthentication -> username password
+Token -> vendosim nje Token te gjeneruar i cili tregon se kush je.
